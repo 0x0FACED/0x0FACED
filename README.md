@@ -17,7 +17,7 @@
 
 What are you doing here?)
 
-- 📫 My e-mail: [https.genius@gmail.com]
+- My e-mail: [https.genius@gmail.com]
 - My TG: [https://t.me/pick1e_morty]
 
 [![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=0x0FACED)](https://github.com/anuraghazra/github-readme-stats)
